@@ -10,6 +10,7 @@ Table of Contents
   6.Results
   7.Conclusion
   8.References
+
 1.Introduction
 This project aims to summarize news articles using various text summarization techniques, including graph-based methods and BERT embeddings. The goal is to produce concise and coherent summaries from longer texts.
 
@@ -48,4 +49,5 @@ The project showcases various techniques for text summarization and provides ins
 NLTK Documentation
 Scikit-learn Documentation
 Transformers Documentation
+
 This README file provides an overview and structure for your notebook project without including any code snippets.
