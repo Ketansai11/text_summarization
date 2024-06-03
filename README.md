@@ -2,18 +2,18 @@
 This project demonstrates a text summarization workflow using various techniques and tools. The notebook provides a comprehensive guide to loading data, performing exploratory data analysis, and implementing summarization models.
 
 Table of Contents
-Introduction
-Setup and Installation
-Data Loading
-Exploratory Data Analysis
-Model Implementation
-Results
-Conclusion
-References
-Introduction
+  1.Introduction
+  2.Setup and Installation
+  3.Data Loading
+  4.Exploratory Data Analysis
+  5.Model Implementation
+  6.Results
+  7.Conclusion
+  8.References
+1.Introduction
 This project aims to summarize news articles using various text summarization techniques, including graph-based methods and BERT embeddings. The goal is to produce concise and coherent summaries from longer texts.
 
-Setup and Installation
+2.Setup and Installation
 To run the notebook, ensure you have the following dependencies installed:
 
 Python 3.7+
@@ -27,24 +27,24 @@ Scikit-learn
 Transformers
 You can install the required packages using pip.
 
-Data Loading
+3.Data Loading
 The notebook begins by setting up the environment and loading the data. It includes paths for news articles and their summaries. Ensure you have the dataset in the specified directory structure.
 
-Exploratory Data Analysis
+4.Exploratory Data Analysis
 Before diving into the modeling, exploratory data analysis (EDA) is performed to understand the data distribution and characteristics. Visualization tools like Matplotlib and Seaborn are used for this purpose.
 
-Model Implementation
+5.Model Implementation
 The notebook implements several models for text summarization, including:
 
 Graph-based summarization: Using algorithms like TextRank.
 BERT embeddings: Leveraging pre-trained BERT models for generating summaries.
-Results
+6.Results
 Results from the models are evaluated using metrics such as BLEU score to ensure the quality and coherence of the summaries.
 
-Conclusion
+7.Conclusion
 The project showcases various techniques for text summarization and provides insights into their performance. Future work may involve exploring other advanced models and fine-tuning strategies.
 
-References
+8.References
 NLTK Documentation
 Scikit-learn Documentation
 Transformers Documentation
